@@ -1,4 +1,4 @@
-const { fetchBreedDescription } = require('./breedFetcher');
+const {fetchBreedDescription} = require('./fetchBreedDescription');
 
 const breedName = process.argv[2];
 
